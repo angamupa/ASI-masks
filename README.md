@@ -7,14 +7,14 @@ The code designs an Artificial Spin Ice topology with an stadium shape element. 
 
 Things to be fixed:
 
-1. Organize and allow the multi-layer system
-2. Add the Wafer shape for reference
-3. Organize the distribution of multiple samples.
-4. Add labels to the samples
-5. Scribing and visible marks
+1. Organize and allow the multi-layer system (DONE)
+2. Add the Wafer shape for reference (DONE)
+3. Organize the distribution of multiple samples (DONE to 8 samples)
+4. Add labels to the samples (DONE)
+5. Scribing and visible marks (DONE)
 
 Current execution times:
 
-For two copies of the same sample with 7 sizes and 5 dimensions = 9m 17s
+For eight copies of the same sample with 7 sizes and 5 dimensions = 23m 28s
 
 TRY TO OPTIMIZE!!!
